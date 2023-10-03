@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39821af0-7535-4815-9811-44218c56fe4c" name="Changes" comment="" />
+    <list default="true" id="39821af0-7535-4815-9811-44218c56fe4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/skilaverkefni2_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skilaverkefni2_1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/skilaverkefni2_2.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skilaverkefni2_2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/skilaverkefni2_3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skilaverkefni2_3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/skilaverkefni2_4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skilaverkefni2_4.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,12 +41,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/somerandomguy/NTV/skilaverkefni2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Dart Command Line App.skilaverkefni2.dart">
-    <configuration name="skilaverkefni2.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="filePath" value="$PROJECT_DIR$/bin/skilaverkefni2.dart" />
+  <component name="RunManager">
+    <configuration name="skilaverkefni2_1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/skilaverkefni2_1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
