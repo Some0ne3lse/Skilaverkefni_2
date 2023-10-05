@@ -39,15 +39,3 @@ double nullEscapeAndConvertToDouble() {
 
   return parsedNumber;
 }
-
-String nullEscapeFromString(){
-  String? sentence;
-  while (sentence == null) {
-    print("Please enter what you have in mind");
-    sentence = stdin.readLineSync();
-    if (sentence == null) {
-      print("Invalid option");
-    }
-  }
-  return sentence;
-}
