@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39821af0-7535-4815-9811-44218c56fe4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/screenshots_of_output/assignment_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/screenshots_of_output/assignment_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/screenshots_of_output/assignment_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/screenshots_of_output/assignment_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skilaverkefni2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/skilaverkefni2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/skilaverkefni2_1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/skilaverkefni2_1.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +42,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/somerandomguy/NTV/skilaverkefni2_withFunctions/skilaverkefni_2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Dart Command Line App.skilaverkefni2_1.dart">
+  <component name="RunManager">
     <configuration name="skilaverkefni2_1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/skilaverkefni2_1.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
